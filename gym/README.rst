@@ -10,6 +10,7 @@ New tasks names:
 - ChaserWithRandom4Backgrounds2d-v2
 - KeepUpHighMotionPenalty3d-v1
 
+
 ---
 
 OpenAI Gym
