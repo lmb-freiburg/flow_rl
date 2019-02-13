@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/amiranas/Raid/datasets/flow_half_reacher_no_movement_multiple_speed/flow_network_no_movement/flow.ckpt"
+all_model_checkpoint_paths: "/home/amiranas/Raid/datasets/flow_half_reacher_no_movement_multiple_speed/flow_network_no_movement/flow.ckpt"

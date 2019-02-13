@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/amiranas/Raid/datasets/robot_block_3/flow_network_no_movement/flow.ckpt"
+all_model_checkpoint_paths: "/home/amiranas/Raid/datasets/robot_block_3/flow_network_no_movement/flow.ckpt"

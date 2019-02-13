@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/amiranas/Raid/datasets/random_4_background_reacher/flow_network/flow.ckpt"
+all_model_checkpoint_paths: "/home/amiranas/Raid/datasets/random_4_background_reacher/flow_network/flow.ckpt"
