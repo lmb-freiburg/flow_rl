@@ -30,8 +30,8 @@ Training `Catcher3d-v1` with additional TinyFlowNet flow prediction input (repla
 
 Training `Chaser2d-v2` with additional image difference input:
 
-    python3 baselines/baselines/ppo2/run_mujoco_imvec.py --main_path LOG_DIR --diff_frames
+    python3 baselines/baselines/ppo2/run_mujoco_imvec.py --main_path LOG_DIR --diff_frames True
     
 Training `Chaser2d-v2` with image stack input:
 
-    python3 baselines/baselines/ppo2/run_mujoco_imvec.py --main_path LOG_DIR --stack_frames
+    python3 baselines/baselines/ppo2/run_mujoco_imvec.py --main_path LOG_DIR --stack_frames True
